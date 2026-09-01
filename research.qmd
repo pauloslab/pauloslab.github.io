@@ -1,0 +1,67 @@
+---
+title: "Research"
+---
+
+::: {.page-hero}
+# Research
+
+Our lab studies infectious disease transmission at the interfaces among people, animals, and the environment. We use environmental surveillance and quantitative epidemiologic approaches to understand where pathogens are circulating, how they move, and how environmental data can support public health decision-making.
+:::
+
+::: {.research-section}
+
+::: {.research-block}
+<div class="eyebrow">Theme 01</div>
+
+## Environmental pathogen surveillance
+
+We develop and apply methods for detecting infectious disease threats in environmental samples, including wastewater, air, water, and other complex matrices.
+
+Our work spans assay development, sample processing, interpretation of environmental signals, and integration with clinical and epidemiologic surveillance.
+
+**Example questions**
+
+- What can environmental surveillance reveal before or beyond clinical testing?
+- How do pathogen concentrations vary across environmental matrices?
+- How should environmental measurements be interpreted in relation to cases, prevalence, or transmission?
+:::
+
+::: {.research-block}
+<div class="eyebrow">Theme 02</div>
+
+## One Health and cross-species transmission
+
+Many emerging infections move across human, animal, and environmental systems. We study these interfaces directly, with particular interest in zoonotic pathogens and settings where occupational, agricultural, and environmental exposures overlap.
+
+**Example questions**
+
+- What environmental pathways may contribute to pathogen spread between species?
+- Where can environmental sampling complement animal or human surveillance?
+- How can surveillance systems better capture risks at human–animal interfaces?
+:::
+
+::: {.research-block}
+<div class="eyebrow">Theme 03</div>
+
+## Infectious disease transmission and exposure
+
+Detection alone is not enough. We pair environmental measurements with epidemiologic data to investigate transmission processes and exposure pathways.
+
+**Example questions**
+
+- Which environmental pathways plausibly contribute to infection risk?
+- How do pathogen persistence and partitioning affect exposure?
+- How can environmental data improve transmission models?
+:::
+
+::: {.research-block}
+<div class="eyebrow">Theme 04</div>
+
+## Genomic and quantitative methods
+
+We use molecular, genomic, statistical, and computational approaches to make environmental pathogen data more informative.
+
+Methods may include targeted molecular assays, metagenomic sequencing, phylogenetics, spatial analysis, exposure modeling, and infectious disease modeling.
+:::
+
+:::

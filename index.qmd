@@ -1,0 +1,97 @@
+---
+title: "Paulos Lab"
+page-layout: custom
+body-classes: home
+---
+::: {.home-title}
+# Paulos Lab
+:::
+
+::: {.hero}
+::: {.hero-copy}
+<div class="eyebrow">University of Michigan School of Public Health</div>
+
+# Environmental surveillance, One Health, and infectious disease transmission
+
+We study how pathogens move among people, animals, and the environment — and how environmental surveillance can help us detect, understand, and prevent infectious disease.
+
+::: {.button-row}
+[Explore our research](research.qmd){.button-primary}
+[Join the lab](join.qmd){.button-secondary}
+:::
+:::
+
+::: {.hero-image}
+:::
+:::
+
+::: {.section}
+::: {.section-inner}
+::: {.section-heading}
+<div class="eyebrow">What we study</div>
+
+## Linking environmental evidence to infectious disease transmission
+
+Our work combines environmental microbiology, epidemiology, molecular methods, genomics, and quantitative modeling to understand pathogen circulation across human, animal, and environmental systems.
+:::
+
+::: {.card-grid}
+::: {.card}
+<div class="card-kicker">01</div>
+
+### Environmental surveillance
+
+We develop and apply environmental sampling approaches to detect pathogens in wastewater, air, water, and other complex matrices.
+:::
+
+::: {.card}
+<div class="card-kicker">02</div>
+
+### One Health transmission
+
+We study how pathogens move among humans, animals, and shared environments, with a focus on zoonotic and emerging infections.
+:::
+
+::: {.card}
+<div class="card-kicker">03</div>
+
+### Infectious disease dynamics
+
+We combine environmental measurements with epidemiologic and genomic data to understand transmission, exposure, and population-level risk.
+:::
+:::
+:::
+:::
+
+::: {.section .alt}
+::: {.section-inner}
+::: {.feature}
+::: {.feature-image}
+:::
+
+::: {}
+<div class="eyebrow">Featured research</div>
+
+## From environmental detection to transmission insight
+
+Environmental surveillance can reveal pathogen circulation that traditional clinical surveillance may miss. Our work asks not only whether pathogens can be detected in the environment, but what those measurements tell us about transmission, exposure, and public health action.
+
+[Read about our research →](research.qmd)
+:::
+:::
+:::
+:::
+
+::: {.section}
+::: {.section-inner}
+::: {.section-heading}
+<div class="eyebrow">Latest</div>
+
+## News & updates
+:::
+
+::: {.news-list}
+::: {.news-item}
+<div class="news-date">August 2026</div>
+<div><strong>Lab launch.</strong> The Paulos Lab has launched at the University of Michigan School of Public Health.</div>
+:::

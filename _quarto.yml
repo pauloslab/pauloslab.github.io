@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Paulos Lab"
+  site-url: "https://pauloslab.github.io"
+  navbar:
+    background: "#214E46"
+    foreground: "#F7F4EE"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: join.qmd
+        text: Join
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: "https://github.com/pauloslab"
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Paulos Lab"
+    center: "University of Michigan School of Public Health"
+    right:
+      - text: "Contact"
+        href: contact.qmd
+  favicon: images/favicon.svg
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    include-in-header:
+      text: |
+        <meta name="description" content="Paulos Lab — Environmental surveillance, One Health, and infectious disease transmission.">
+        <meta name="theme-color" content="#214E46">
+
+execute:
+  freeze: auto

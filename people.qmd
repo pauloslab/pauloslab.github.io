@@ -1,0 +1,60 @@
+---
+title: "People"
+---
+
+::: {.page-hero}
+# People
+
+We are building an interdisciplinary team at the intersection of environmental health, infectious disease epidemiology, microbiology, and quantitative methods.
+:::
+
+## Principal Investigator
+
+::: {.person-grid}
+::: {.person-card}
+<img class="person-photo" src="images/Abby Paulos-007.jpg" alt="Photo placeholder for Abby Paulos">
+
+::: {.person-info}
+### Abby Paulos, PhD
+
+<div class="person-role">Principal Investigator</div>
+
+Assistant Professor of Epidemiology  
+University of Michigan School of Public Health
+
+Abby studies environmental and cross-species transmission of infectious diseases, environmental pathogen surveillance, and One Health epidemiology.
+
+[Email](contact.qmd) · [Google Scholar](https://scholar.google.com/citations?user=hB8EjpgAAAAJ&hl=en&authuser=1) · [ORCID](https://orcid.org/0009-0001-9258-6648)
+:::
+:::
+:::
+
+<!--
+## Lab Members
+
+::: {.person-grid}
+::: {.person-card}
+<div class="person-info">
+### Your future lab member
+
+<div class="person-role">Research Staff / Student / Postdoc</div>
+
+Add a short 2–3 sentence biography, research interests, and links here.
+:::
+:::
+
+::: {.person-card}
+<div class="person-info">
+### Your future lab member
+
+<div class="person-role">Graduate Student</div>
+
+This layout will automatically expand as the lab grows.
+:::
+:::
+:::
+
+## Collaborators & Affiliates
+
+Add recurring collaborators or affiliated trainees here if you want them visible on the lab site.
+-->

@@ -1,0 +1,33 @@
+---
+title: "Contact"
+---
+
+::: {.page-hero}
+# Contact
+
+Interested in collaborating, joining the lab, or learning more about our work? Get in touch.
+:::
+
+::: {.contact-grid}
+
+::: {.contact-card}
+### Abby Paulos, PhD
+
+Assistant Professor of Epidemiology  
+University of Michigan School of Public Health
+
+**Email:** paulos@umich.edu
+**Office:** M5142 SPH II  
+**Lab:** 7050 SPH I
+:::
+
+::: {.contact-card}
+### Links
+
+[University profile](https://sph.umich.edu/faculty-profiles/paulos-abby.html)  
+[Google Scholar](https://scholar.google.com/citations?user=hB8EjpgAAAAJ&hl=en&authuser=1)  
+[ORCID](https://orcid.org/0009-0001-9258-6648)  
+[GitHub](https://github.com/pauloslab)
+:::
+
+:::

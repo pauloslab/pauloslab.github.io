@@ -1,0 +1,125 @@
+---
+title: "Publications"
+title-block-style: none
+---
+
+::: {.page-hero}
+# Publications
+::: {.publication-list}
+
+## 2026
+
+::: {.publication}
+<div class="publication-title">Wastewater detections of <em>Bordetella pertussis</em> and <em>Mycobacterium tuberculosis</em> nucleic acids in active disease outbreak sites in the USA</div>
+<div class="publication-meta"><strong>Abigail P. Paulos</strong>, Alessandro Zulli, Dorothea Duong, Bridgette Shelden, Bradley J. White, Devin North, Alexandria B. Boehm, Marlene K. Wolfe. <em>Environmental Science: Water Research & Technology</em>. In press.</div>
+
+[Preprint](https://www.medrxiv.org/content/10.64898/2026.04.09.26350536v1)
+:::
+
+::: {.publication}
+<div class="publication-title">Surveillance on California dairy farms reveals multiple sources of H5N1 transmission</div>
+<div class="publication-meta">A.J. Campbell, Meredith Shephard, <strong>Abigail P. Paulos</strong>, Matthew Pauly, Michelle Vu, Chloe Stenkamp-Strahm, Kaitlyn Bushfield, Betsy Hunter-Binns, Orlando Sablon, Emily E. Bendall, William J. Fitzimmons, Kayla Brizuela, Gracie Quirk, Nirmal Kumar, Brian McCluskey, Nishit Shetty, Kevin Abernathy, Adam S. Lauring, Blaine T. Melody, Marlene Wolfe, Jason Lombard, Seema S. Lakdawala. <em>PLoS Biology</em>. 2026. In press.</div>
+
+[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.31.666798v2)
+:::
+
+::: {.publication}
+<div class="publication-title">Measles RNA detection in wastewater solids: longitudinal monitoring at a national scale</div>
+<div class="publication-meta"><strong>Abigail P. Paulos</strong>, Alessandro Zulli, Bridgette Shelden, Dorothea Duong, Alexandria B. Boehm, Marlene K. Wolfe. <em>Environmental Science: Water Research & Technology</em>. 2026.</div>
+
+[Paper](https://pubs.rsc.org/ew/article/doi/10.1039/d6ew00020g/1223010/Measles-RNA-detection-in-wastewater-solids)
+:::
+
+
+## 2025
+
+::: {.publication}
+<div class="publication-title">Detection of Hemagglutinin H5 influenza A virus RNA and model of potential inputs in an urban California sewershed</div>
+<div class="publication-meta"><strong>Abigail Paulos</strong>, Bradley White, Dorothea Duong, Bridgette Shelden, Alexandria Boehm, Marlene Wolfe. <em>Environmental Science & Technology</em>. 2025.</div>
+
+[Paper](https://pubs.acs.org/doi/full/10.1021/acs.est.4c14792)
+:::
+
+::: {.publication}
+<div class="publication-title">Zoonotic and environmental sources of infant enteric pathogen infections in pastoralist communities identified with longitudinal sampling</div>
+<div class="publication-meta"><strong>Abigail Paulos</strong>, John Mboya, Jeremy Lowe, Daehyun Daniel Kim, Hannah C. Wharton, Faith Thuita, Valerie L. Flax, Sammy Njenga, Angela Harris, Amy J. Pickering. <em>Environmental Science & Technology</em>. 2025.</div>
+
+[Paper](https://pubs.acs.org/doi/10.1021/acs.est.5c02027)
+:::
+
+::: {.publication}
+<div class="publication-title">Temperature and precipitation affect the water fetching time burden in Sub-Saharan Africa</div>
+<div class="publication-meta"><strong>Abigail Harvey Paulos</strong>, David Alexander Carroll, Julie Powers, Jake Campolo, Daehyun Daniel Kim, Avery Cohn, Amy J. Pickering. <em>Nature Communications</em>. 2025.</div>
+
+[Paper](https://doi.org/10.1038/s41467-025-58780-9)
+:::
+
+::: {.publication}
+<div class="publication-title">Context-Seq: CRISPR-Cas9 Targeted Nanopore Sequencing for Transmission Dynamics of Antimicrobial Resistance</div>
+<div class="publication-meta">Erica R. Fuhrmeister, Sooyeol Kim, Shruteek A. Mairal, Caroline McCormack, Benard Chieng, Jenna M. Swarthout, <strong>Abigail Harvey Paulos</strong>, Sammy M. Njenga, Amy J. Pickering. <em>Nature Communications</em>. 2025.</div>
+
+[Paper](https://www.nature.com/articles/s41467-025-60491-0)
+:::
+
+
+## 2024
+
+::: {.publication}
+<div class="publication-title">Detection of hemagglutinin H5 influenza A virus sequence in municipal wastewater solids at wastewater treatment plants with increases in influenza A in spring, 2024</div>
+<div class="publication-meta">Marlene Wolfe, Dorothea Duong, Bridgette Shelden, Elana Chan, Vikram Chan-Herur, Stephen Hilton, <strong>Abigail Harvey Paulos</strong>, Xiang-Ru Xu, Alessandro Zulli, Bradley White, Alexandria Boehm. <em>Environmental Science & Technology Letters</em>. 2024.</div>
+
+<div class="publication-award">🏆 Best Paper Award 2024</div>
+
+[Paper](https://doi.org/10.1021/acs.estlett.4c00331)
+:::
+
+
+## 2023
+
+::: {.publication}
+<div class="publication-title">Wastewater detection of emerging arbovirus infections: Case study of Dengue in the United States</div>
+<div class="publication-meta">Marlene Wolfe, <strong>Abigail Harvey Paulos</strong>, Alessandro Zulli, Dorothea Duong, Bridgette Shelden, Bradley White, Alexandria Boehm. <em>Environmental Science & Technology Letters</em>. 2023.</div>
+
+[Paper](https://doi.org/10.1021/acs.estlett.3c00769)
+:::
+
+::: {.publication}
+<div class="publication-title">Evaluating the relationship between community water and sanitation access and the global burden of antibiotic resistance: an ecological study</div>
+<div class="publication-meta">Erica Fuhrmeister, <strong>Abigail Harvey</strong>, Maya Nadimpalli, Karin Gallandat, Argaw Ambelu, Benjamin F. Arnold, Joe Brown, Oliver Cumming, Ashlee M. Earl, Gagandeep Kang, Samuel Kariuki, Karen Levy, Chris E. Pinto Jimenez, Jenna M. Swarthout, Gabriel Trueba, Pablo Tsukayama, Colin J. Worby, Amy J. Pickering. <em>The Lancet Microbe</em>. 2023.</div>
+
+[Paper](https://doi.org/10.1016/S2666-5247(23)00137-4)
+:::
+
+
+## 2021
+
+::: {.publication}
+<div class="publication-title">Longitudinal Monitoring of SARS-CoV-2 RNA on High-Touch Surfaces in a Community Setting</div>
+<div class="publication-meta"><strong>Abigail Harvey</strong><sup>*</sup>, Erica R. Fuhrmeister<sup>*</sup>, Molly E. Cantrell, Ana K. Pitol, Jenna M. Swarthout, Julie E. Powers, Maya L. Nadimpalli, Timothy R. Julian, Amy J. Pickering. <em>Environmental Science & Technology Letters</em>. 2021.</div>
+
+<div class="publication-note"><sup>*</sup>Co-first authors</div>
+<div class="publication-award">🏆 Best Paper Award 2021</div>
+
+[Paper](https://doi.org/10.1021/acs.estlett.0c00875)
+:::
+
+::: {.publication}
+<div class="publication-title">A case study in participatory science with mutual capacity building between university and tribal researchers to investigate drinking water quality in rural Maine</div>
+<div class="publication-meta">Tchelet Segev<sup>*</sup>, <strong>Abigail Harvey</strong><sup>*</sup>, Asha Ajmani, Christopher Johnson, William Longfellow, Kathleen M. Vandiver, Harold Hemond. <em>Environmental Research</em>. 2021.</div>
+
+<div class="publication-note"><sup>*</sup>Co-first authors</div>
+
+[Paper](https://doi.org/10.1016/j.envres.2020.110460)
+:::
+
+
+## 2018
+
+::: {.publication}
+<div class="publication-title">Understanding factors influencing the detection of mercury policies in modelled Laurentian Great Lakes wet deposition</div>
+<div class="publication-meta">Amanda Giang, Shaojie Song, Marilena Muntean, Greet Janssens-Maenhout, <strong>Abigail Harvey</strong>, Elizabeth Berg, Noelle E. Selin. <em>Environmental Science: Processes & Impacts</em>. 2018.</div>
+
+[Paper](https://doi.org/10.1039/C8EM00268A)
+:::
+
+:::

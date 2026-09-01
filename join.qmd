@@ -1,0 +1,52 @@
+---
+title: "Join the Lab"
+---
+
+::: {.page-hero}
+# Join the Lab
+
+We are interested in working with students and researchers who want to understand infectious disease transmission using environmental, epidemiologic, and molecular data.
+:::
+
+## Who might be a good fit?
+
+You do not need to arrive with experience in every method we use. Strong candidates may come from epidemiology, environmental health, microbiology, engineering, data science, public health, or related fields.
+
+Interests that fit especially well include:
+
+- environmental surveillance
+- infectious disease epidemiology
+- One Health and zoonotic disease
+- environmental microbiology
+- molecular methods and sequencing
+- spatial or infectious disease modeling
+- quantitative exposure assessment
+
+## Current opportunities
+
+### Undergraduate and master's students
+
+I work with undergraduate students at the University of Michigan through the UROP program, and with MS and MPH students in the School of Public Health and beyond. If you're interested in research for credit or for paid opportunities, email me to discuss.
+
+### Prospective doctoral students
+
+Apply to the Doctoral Program in Epidemiologic Science at the University of Michigan School of Public Health. More information is available on the [Epidemiologic Science PhD program page](https://sph.umich.edu/epid/programs/phd.html).
+
+### Research staff and postdoctoral researchers
+
+Links to open positions will be listed here when applicable. For prospective postdoctoral fellows, contact me to discuss possibilities.
+
+## Mentoring approach
+
+We aim to build a collaborative research environment where people receive clear expectations, regular feedback, opportunities for intellectual ownership, and support in developing an independent scientific identity. People from all backgrounds are welcome in the Paulos Lab.
+
+## How to contact us
+
+If you are interested in joining the lab, email paulos@umich.edu with:
+
+- a brief description of your research interests
+- why the lab's work interests you
+- your CV or resumé
+- the type of position or training opportunity you are seeking
+
+[Contact the lab](contact.qmd){.button-primary}
